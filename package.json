@@ -1,0 +1,14 @@
+{
+  "name": "@coconutcc/tree-explorer-assignment",
+  "main": "0aa4823fb58494df@515.js",
+  "version": "515.0.0",
+  "homepage": "https://observablehq.com/@coconutcc/tree-explorer-assignment",
+  "author": {
+    "name": "Xiaotong Hu",
+    "url": "https://observablehq.com/@coconutcc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
